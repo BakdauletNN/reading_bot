@@ -1,0 +1,40 @@
+{
+  "users": {
+    "832808074": {
+      "id": 832808074,
+      "first_name": "bakdaulet",
+      "username": "",
+      "current_book": null,
+      "book_title": "Абайдың қара сөздері.pdf",
+      "book_source": "C:\\Users\\Bakdaulet Kuatuly\\Desktop\\tg_oq\\Абайдың қара сөздері.pdf",
+      "daily_pages_goal": 25,
+      "pages_read": 17,
+      "last_read_date": "2026-06-27",
+      "streak": 1,
+      "best_streak": 1,
+      "reminder_time": "12:06",
+      "read_history": [
+        {
+          "date": "2026-06-27",
+          "pages": 17
+        }
+      ],
+      "group_name": "readership",
+      "awaiting": null
+    }
+  },
+  "books": {},
+  "groups": {
+    "group_832808074_1": {
+      "id": "group_832808074_1",
+      "name": "readership",
+      "creator": "832808074",
+      "members": [
+        "832808074",
+        "10001",
+        "10002"
+      ],
+      "created_at": "2026-06-27"
+    }
+  }
+}
